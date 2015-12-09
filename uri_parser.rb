@@ -1,4 +1,4 @@
-class Uri_parser < Formula
+class UriParser < Formula
   desc "uri_parser is a URI parser."
   homepage "https://github.com/Zewo/uri_parser"
   url "https://github.com/Zewo/uri_parser/archive/0.1.0.tar.gz"
