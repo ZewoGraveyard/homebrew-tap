@@ -1,4 +1,4 @@
-class http_parser < Formula
+class Http_parser < Formula
   desc "http_parser is an HTTP parser."
   homepage "https://github.com/Zewo/http_parser"
   url "https://github.com/Zewo/http_parser/archive/0.1.0.tar.gz"
