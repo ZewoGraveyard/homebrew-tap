@@ -1,12 +1,11 @@
 # Homebrew formulae for [Zewo](https://github.com/Zewo)
 
-Simply add the tap
+## Install
 ```shell
 $ brew tap zewo/tap
+$ brew install zewo
 ```
-and run `brew install` for any of the formulae!
-
-## Formulae
+## Dependencies
 - [libvenice](https://github.com/Zewo/libvenice)
 - [http_parser](https://github.com/Zewo/http_parser)
 - [uri_parser](https://github.com/Zewo/uri_parser)
