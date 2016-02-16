@@ -3,7 +3,7 @@ class Libvenice < Formula
   homepage "https://github.com/Zewo/libvenice"
   url "https://github.com/Zewo/libvenice/archive/0.2.0.tar.gz"
   version "0.2.0"
-  sha256 "c11ba46fa14a3f7becb7823f23bc3fed67851207c7d445d918ed3a8c1063d66c"
+  sha256 "e5b2c9d9867a4e6ccedd3679e17b1996998d09952c081c13e008795d419b4e89"
   head "https://github.com/Zewo/libvenice.git", :using => :git
 
   def install
