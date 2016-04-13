@@ -1,9 +1,9 @@
 class UriParser < Formula
   desc "uri_parser is a URI parser."
   homepage "https://github.com/Zewo/uri_parser"
-  url "https://github.com/Zewo/uri_parser/archive/0.2.5.tar.gz"
-  version "0.2.5"
-  sha256 "768cd872f92cedc831e1c6ecfeafd26ab3d08cd4ffc23b5d1a413939feb6e4c7"
+  url "https://github.com/Zewo/uri_parser/archive/0.1.0.tar.gz"
+  version "0.1.0"
+  sha256 "b2739587370bff4d5e3f18eebed8fb4d88a8ef743d6d0252d0d97c3c746ee5bd"
 
   def install
     system "make"
