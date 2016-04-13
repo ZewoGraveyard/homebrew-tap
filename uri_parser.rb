@@ -3,7 +3,7 @@ class UriParser < Formula
   homepage "https://github.com/Zewo/uri_parser"
   url "https://github.com/Zewo/uri_parser/archive/0.2.5.tar.gz"
   version "0.2.5"
-  sha256 "4b52d08ebbc23a3f9a951eb9cda27e6e6a33790a424e543f8a7d9b2a4e36830e"
+  sha256 "768cd872f92cedc831e1c6ecfeafd26ab3d08cd4ffc23b5d1a413939feb6e4c7"
 
   def install
     system "make"
